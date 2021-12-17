@@ -10,6 +10,25 @@ body {
     padding-right: 25px;
 }
 
+.container-small {
+    margin: 0 auto;
+    max-width: 590px;
+    width: 100%;
+}
+
+.dot {
+    color: #d6c545;
+}
+
+h2 {
+    font-size: 90px;
+    font-weight: 900;
+}
+
+p {
+    margin-bottom: 26px;
+}
+
 #pageHero {
     .hero-content {
         height: 580px;
@@ -64,5 +83,24 @@ body {
             margin-top: 18px;
             text-align: center;
         }
+    }
+}
+
+#pageBody {
+    padding-top: 100px;
+    max-width: 850px;
+    width: 100%;
+    margin: 0 auto;
+
+    .illustration {
+        width: 100%;
+
+        img {
+            margin: 0 auto;
+        }
+    }
+
+    .content {
+        margin-top: 40px;
     }
 }
