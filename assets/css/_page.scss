@@ -1,0 +1,68 @@
+html,
+body {
+    background: #0a0f12;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1338px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#pageHero {
+    .hero-content {
+        height: 580px;
+
+        .title {
+            width: 50%;
+
+            h1 {
+                font-size: 90px;
+                font-weight: 900;
+                color: #d6c545;
+                letter-spacing: 4px;
+                margin-top: -20px;
+            }
+        }
+
+        .intro {
+            width: 50%;
+
+            p {
+                font-size: 34px;
+                font-weight: 900;
+                letter-spacing: 3px;
+            }
+
+            .text-link {
+                display: block;
+                margin-top: 28px;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .hero-footer {
+        .hero-what {
+            margin-right: -34px;
+
+            span {
+                font-size: 28px;
+                font-weight: 900;
+            }
+
+            .dot {
+                color: #d6c545;
+                display: block;
+                margin: 0 28px;
+            }
+        }
+
+        a {
+            margin-top: 18px;
+            text-align: center;
+        }
+    }
+}
