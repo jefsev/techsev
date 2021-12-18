@@ -115,6 +115,7 @@ p {
     max-width: 850px;
     width: 100%;
     margin: 0 auto;
+    padding-bottom: 150px;
 
     .illustration {
         width: 100%;
@@ -126,5 +127,47 @@ p {
 
     .content {
         margin-top: 40px;
+
+        .tools {
+            h3 {
+                margin-bottom: 26px;
+            }
+
+            .link-big {
+                font-size: 26px;
+                font-weight: 900;
+                text-decoration: underline;
+                margin-right: 30px;
+                margin-bottom: 12px;
+                display: inline-block;
+            }
+        }
+    }
+
+    .quote-block {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        padding: 35px 15px;
+        text-align: center;
+        background: #0f161a;
+        border-radius: 20px;
+
+        span {
+            font-size: 26px;
+            font-weight: 900;
+            font-style: italic;
+
+            .yel {
+                color: #d6c545;
+            }
+        }
+    }
+
+    .works-logos {
+        margin-top: 32px;
+
+        a {
+            margin-bottom: 18px;
+        }
     }
 }

@@ -50,7 +50,8 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/pwa
       '@nuxtjs/pwa',
-      '@nuxt/content'
+      '@nuxt/content',
+      'vue-scrollto/nuxt'
     ],
   
     content: {

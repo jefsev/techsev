@@ -1,0 +1,52 @@
+#footer {
+    .footer-contact {
+        padding-bottom: 50px;
+
+        a {
+            font-size: 18px;
+            font-weight: 900;
+            text-decoration: underline;
+            margin: 0 12px;
+        }
+    }
+
+    .footer-foot {
+        padding-top: 50px;
+        padding-bottom: 25px;
+        position: relative;
+
+        .dot.absolute {
+            display: block;
+            width: 10px;
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 26px;
+            font-weight: 900;
+        }
+
+        span {
+            font-size: 14px;
+            margin-right: 6px;
+
+            span.logo {
+                font-weight: 900;
+                margin-right: 0;
+            }
+
+            a {
+                font-size: 14px;
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .foot-right {
+        span {
+            margin: 0;
+        }
+    }
+}

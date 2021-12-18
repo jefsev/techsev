@@ -20,7 +20,7 @@
                 <span class="dot">.</span>
                 <span>WEB DEVELOPMENT</span>
             </div>
-            <a href="#about">
+            <a href="#" v-scroll-to="'#about'">
                 <img src="/scroll.svg" alt="" />
             </a>
         </div>
