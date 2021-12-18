@@ -20,13 +20,37 @@ body {
     color: #d6c545;
 }
 
+.dot.centered-dot {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 900;
+}
+
 h2 {
     font-size: 90px;
     font-weight: 900;
 }
 
+h3 {
+    margin-top: 50px;
+    font-size: 34px;
+    font-weight: 900;
+}
+
 p {
     margin-bottom: 26px;
+    font-size: 18px;
+
+    a,
+    i,
+    strong,
+    span,
+    li,
+    ol {
+        font-size: 18px;
+    }
 }
 
 #pageHero {
