@@ -15,18 +15,10 @@
                     >© {{ currentDate.getFullYear() }}
                     <span class="logo">TECHSEV<span class="dot">.</span></span>
                 </span>
-                <span>0% COOKIES</span>
             </div>
             <span class="dot absolute">.</span>
             <div class="foot-right">
-                <span
-                    >Made with
-                    <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a> &
-                    hosted on
-                    <a href="https://www.netlify.com/" target="_blank"
-                        >Netlify</a
-                    ></span
-                >
+                <span>0% COOKIES</span>
             </div>
         </div>
     </div>

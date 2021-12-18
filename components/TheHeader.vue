@@ -1,6 +1,6 @@
 <template>
     <div id="nav" class="flex flex-row justify-between items-center">
-        <img src="/logo.svg" alt="" />
+        <img class="menu-logo" src="/logo.svg" alt="" />
 
         <nav class="navbar flex flex-row justify-end items-center">
             <a href="#" v-scroll-to="'#about'">about me</a>

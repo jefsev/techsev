@@ -10,7 +10,11 @@
                         My name is Jeffrey Sevinga. I’m a designer & developer
                         from the Netherlands.
                     </p>
-                    <span class="text-link">Let’s talk</span>
+                    <span class="text-link"
+                        >Let’s talk: let's
+                        <a href="https://wa.me/0682516209">WhatsApp</a> or
+                        <a href="mailto:sevinga@protonmail.com">Mail</a>
+                    </span>
                 </div>
             </div>
         </div>
