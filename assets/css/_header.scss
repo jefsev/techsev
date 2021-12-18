@@ -4,6 +4,14 @@
 
     .menu-logo {
         height: 37px;
+        font-size: 30px;
+        font-weight: 900;
+
+        span {
+            font-size: 30px;
+            color: #d6c545;
+            font-weight: 900;
+        }
     }
 
     .navbar {
@@ -31,6 +39,14 @@
 
         .menu-logo {
             height: 24px;
+            font-size: 20px;
+            font-weight: 900;
+
+            span {
+                font-size: 20px;
+                color: #d6c545;
+                font-weight: 900;
+            }
         }
 
         .navbar {
