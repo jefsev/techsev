@@ -9,7 +9,7 @@
                 <a href="mailto:sevinga@protonmail.com" target="_blank">
                     <img src="/email.svg" alt="" />
                 </a>
-                <a href="https://wa.me/0682516209" target="_blank">
+                <a href="https://wa.me/031682516209" target="_blank">
                     <img src="/whatsapp.svg" alt="" />
                 </a>
             </div>

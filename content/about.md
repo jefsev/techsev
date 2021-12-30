@@ -8,4 +8,4 @@ I love defining the goal of a given project and the creative part of matching th
 
 <span class="dot centered-dot">.<span>
 
-*Need a freelance designer or developer or both? I’m always in for a new project: <u>[Email](mailto:sevinga@protonmail.com)</u> - <u>[WhatsApp](https://wa.me/0682516209)</u>*
+*Need a freelance designer or developer or both? I’m always in for a new project: <u>[Email](mailto:sevinga@protonmail.com)</u> - <u>[WhatsApp](https://wa.me/031682516209)</u>*

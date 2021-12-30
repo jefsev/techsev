@@ -12,7 +12,7 @@
                     </p>
                     <span class="text-link"
                         >Let’s talk: let's
-                        <a href="https://wa.me/0682516209">WhatsApp</a> or
+                        <a href="https://wa.me/031682516209">WhatsApp</a> or
                         <a href="mailto:sevinga@protonmail.com">Mail</a>
                     </span>
                 </div>
