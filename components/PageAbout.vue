@@ -27,6 +27,9 @@
                     items-center
                 "
             >
+                <a href="https://ress-theme.nl/" target="_blank">
+                    <img src="/logo-ress.png" />
+                </a>
                 <a href="https://bijbelseoverdenkingen.nl/" target="_blank">
                     <img src="/logo-whitetext.svg" />
                 </a>
