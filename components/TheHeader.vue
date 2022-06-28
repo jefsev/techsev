@@ -6,6 +6,9 @@
             <a href="#" v-scroll-to="'#about'">about me</a>
             <a href="#" v-scroll-to="'#works'">works</a>
             <div class="contact flex flex-row justify-end items-center">
+                <a href="https://github.com/jefsev" target="_blank">
+                    <img src="/github.svg" alt="" />
+                </a>
                 <a href="mailto:sevinga@protonmail.com" target="_blank">
                     <img src="/email.svg" alt="" />
                 </a>

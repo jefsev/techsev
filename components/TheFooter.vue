@@ -8,6 +8,7 @@
             >
             <a href="mailto:sevinga@protonmail.com" target="_blank">EMAIL</a>
             <a href="https://wa.me/031682516209" target="_blank">WHATSAPP</a>
+            <a href="https://github.com/jefsev" target="_blank">GITHUB</a>
         </div>
         <div class="footer-foot flex justify-between items-center">
             <div class="foot-left">

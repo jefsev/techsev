@@ -7,11 +7,11 @@
                 </div>
                 <div class="intro">
                     <p>
-                        My name is Jeffrey Sevinga. I’m a designer & developer
-                        from the Netherlands.
+                        My name is Jeffrey Sevinga. I’m a developer from the
+                        Netherlands.
                     </p>
                     <span class="text-link"
-                        >Let’s talk: let's
+                        >Let’s talk:
                         <a href="https://wa.me/031682516209">WhatsApp</a> or
                         <a href="mailto:sevinga@protonmail.com">Mail</a>
                     </span>
@@ -20,9 +20,9 @@
         </div>
         <div class="hero-footer flex flex-col items-center">
             <div class="hero-what flex flex-row justify-center items-center">
-                <span>UX & WEB DESIGN</span>
+                <span>DEVELOPER</span>
                 <span class="dot">.</span>
-                <span>WEB DEVELOPMENT</span>
+                <span>COFFEE</span>
             </div>
             <a href="#" v-scroll-to="'#about'">
                 <img src="/scroll.svg" alt="" />

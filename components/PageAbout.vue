@@ -27,6 +27,9 @@
                     items-center
                 "
             >
+                <a href="https://bijbelseoverdenkingen.nl/" target="_blank">
+                    <img src="/logo-whitetext.svg" />
+                </a>
                 <a href="https://events.lekkerboats.com/" target="_blank">
                     <img src="/lekkerwhite.svg" />
                 </a>
