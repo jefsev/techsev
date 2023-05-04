@@ -1,10 +1,10 @@
 ## ABOUT ME<span class="dot">.</span>
 
-I’m a Developer living in the Netherlands. I enjoy spending time together with my wife and kids, walking in nature together and playing rough and tumble. When i'm alone I enjoy reading sci-fi/fantasy novels or occasionally playing a video game.
+Hey there! I'm a developer living in the Netherlands. When I'm not coding, I love hanging out with my family and getting active in nature, whether it's taking a walk or just roughhousing with my kids.
 
-Most of my week I spend developing websites. Currently I work as a software developer at a digital agency. I have both worked as fulltime freelancer and in fulltime employment. As a freelancer i also make my own UX Designs using Adobe XD.
+After working for years as a full-stack developer, UX designer, and team leader, I've got all the skills I need to take a website from an idea to a finished product.
 
-I love a challenge and learning new things, being a software developer gives me enough opportunities to tackle a lot of challenges while learning along the way. 
+I really enjoy a good challenge and learning new things, which is one of the reasons why I love being a software developer so much. There's always something new to learn or a tricky problem to solve, and I get a lot of satisfaction from doing both.
 
 <span class="dot centered-dot">.<span>
 
