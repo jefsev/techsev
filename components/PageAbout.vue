@@ -30,9 +30,6 @@
                 <a href="https://dovendi.com/en" target="_blank">
                     <img src="/dovendi-logo.svg" alt="Dovendi" style="width: 180px;"/>
                 </a>
-                <a href="https://ress-theme.nl/" target="_blank">
-                    <img src="/logo-ress.png" alt="Ress React" />
-                </a>
                 <a href="https://bijbelseoverdenkingen.nl/" target="_blank">
                     <img src="/logo-whitetext.svg" />
                 </a>
